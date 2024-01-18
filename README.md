@@ -1,2 +1,2 @@
 # ml
-Projects that cover the main ML techniques
+Projects that cover some of the ML techniques
